@@ -50,6 +50,7 @@ I'm **`Moneesha`**,Aspiring Data Analyst with strong skills in Python, SQL, and 
 |-------------------|--------------------------------------------------------------------------------------------------|
 | **[Hand Gesture Recognition](https://github.com/moneeshatm/HandGestures.git)**    | Hand Gesture Recognition, built using Python, OpenCV, and MediaPipe.
 This system detects real-time hand landmarks from a webcam and accurately recognizes different gestures based on finger positions |
+| **[Car Service Prediction System](https://github.com/moneeshatm/Car-Service-Prediction?tab=readme-ov-file)**    | A Car Service Prediction System that uses real-world automotive parameters to determine whether a vehicle requires servicing |
 
 
 ---
