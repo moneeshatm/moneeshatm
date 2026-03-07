@@ -1,4 +1,4 @@
-I'm **[`Moneesha`]**,Aspiring Data Analyst with strong skills in Python, SQL, and Power BI, passionate about transforming raw data into meaningful insights. Experienced in data analysis, visualization, and predictive modeling to support data-driven decision making. Seeking an opportunity to apply analytical skills and business intelligence tools to solve real-world problems and contribute to organizational growth..
+I'm **`_Moneesha_`**,Aspiring Data Analyst with strong skills in Python, SQL, and Power BI, passionate about transforming raw data into meaningful insights. Experienced in data analysis, visualization, and predictive modeling to support data-driven decision making. Seeking an opportunity to apply analytical skills and business intelligence tools to solve real-world problems and contribute to organizational growth..
 
 <a href="https://www.linkedin.com/in/moneesha-t-3b3aaa245"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
